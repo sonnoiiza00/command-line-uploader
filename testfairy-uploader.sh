@@ -5,7 +5,7 @@
 UPLOADER_VERSION=2.13
 # Put your TestFairy API_KEY here. Find it here: https://app.testfairy.com/settings/#tab-api-key
 # This is a mandatory parameter.
-TESTFAIRY_API_KEY=
+TESTFAIRY_API_KEY= 5638c8bbc8c6fb6cfdb3e508e2d09c802c265c67
 
 # Should email testers about new version. Set to "off" to disable email notifications.
 NOTIFY="on"
